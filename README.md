@@ -1,6 +1,8 @@
 # zainfo-beta
 This is a system hardware generateing script thats used to fetch prosseser and storage information from the PC/Laptops hardware 
 
+Download both files .ps1 and.bat
+
 If you are useing this or downloading it, make a new folder named ex ( zareport ) and paste both files in there.
 After that double click the file ending in .bat if you have any problems pleaze contact me or give a rationg and i will fix it 
 
